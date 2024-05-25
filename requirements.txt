@@ -1,0 +1,14 @@
+Mediapipe
+Numpy
+Pillow
+Keras-facenet
+Opencv-python
+Openpyxl
+Pandas
+Tensorflow
+Tkcalendar
+XlsxWriter
+Scipy
+pytk
+scikit-learn
+Pyttsx3
